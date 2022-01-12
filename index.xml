@@ -14,7 +14,8 @@
       <guid>http://baktery.github.io/chipmunk_info/</guid>
       <description>Chipmunk is a chiptune sound tracker for Windows, MacOS and Linux.
 Music for retro systems like Commodore 64, MSX, Game Boy, Sega Genesis, etc. can be composed using Chipmunk from a Windows, MacOS or Linux desktop computer.
-Chipmunk emulates the original sound hardware of the retro systems. Music produced can be exported as a wave file or as a VGM file to play the music directly in the original hardware.</description>
+Chipmunk emulates the original sound hardware of retro systems. Music produced can be exported as a wave file or as a VGM file to play it directly using original hardware.
+Project status Chipmunk is in an early development stage, no public build is available yet.</description>
     </item>
     
   </channel>
