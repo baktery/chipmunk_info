@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Chipmunk</title>
+    <link>http://example.com/</link>
+    <description>Recent content on Chipmunk</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://example.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What&#39;s Chipmunk?</title>
+      <link>http://example.com/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.com/</guid>
+      <description>Chipmunk is a chiptune sound tracker for Windows, MacOS and Linux.
+Music for retro systems like Commodore 64, MSX, Game Boy, Sega Genesis, etc. can be composed using Chipmunk from a Windows, MacOS or Linux desktop computer.
+Chipmunk emulates the original sound hardware of the retro systems. Music produced can be exported as a wave file or as a VGM file to play the music directly in the original hardware.</description>
+    </item>
+    
+  </channel>
+</rss>
